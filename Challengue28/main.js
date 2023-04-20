@@ -8,7 +8,7 @@ while(dentro==true){
     var operacion = parseInt(prompt("Que operacion desea realizar ? 1-suma 2-resta 3-multiplicacion 4-division 5-salir"));
 
     if(isNaN(operacion)){
-        alert("Error, ingrese una operacion valida.")
+        alert("Error, ingrese un numero.")
     }
     else{
         if(operacion<1 && operacion>5){
