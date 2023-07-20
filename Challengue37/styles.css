@@ -1,0 +1,20 @@
+.estructura{
+    width: 80px;
+    height: 60px;
+    border: black solid;
+    padding: 5px;
+    margin-left: 30vw;
+}
+.btn-primary{
+    padding: 2vw;
+    font-size: 10px;
+    width: 50px;
+    height: 20px ;
+}
+
+.input1{
+    padding: 2vw;
+    font-size: 10px;
+    width: 50px;
+    height: 20px ;
+}
